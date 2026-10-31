@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tradutor de Tela</string>
+    <string name="btn_ativar">Ativar Bolinha Tradutora</string>
+    <string name="overlay_perm_required">Por favor, autorize 'Sobrepor a outros apps' nas configurações.</string>
+    <string name="reading_screen">Escaneando e traduzindo letras da tela...</string>
+    <string name="notification_title">Tradutor de Tela Ativo</string>
+    <string name="notification_desc">Toque na bolinha flutuante para ler a tela</string>
+</resources>
